@@ -1,0 +1,11 @@
+# Data
+data/raw/
+data/processed/
+
+# Models
+models/
+results/
+
+# Python
+__pycache__/
+*.pyc
